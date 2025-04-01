@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:txkcbu5asxov3jcu4nlkbzjm/bafkreibl46tgxeujoey7bd6kvr5rtjyccs64d36kqpmuwih42v5w3gifd4@jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
