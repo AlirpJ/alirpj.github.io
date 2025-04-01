@@ -6,7 +6,7 @@ order: 4
 
 Hi there!
 
-I am Jisp, my name comes from attempting to pronounce my initials.
+I am Jisp. My name comes from attempting to pronounce my initials.
 
 You can find me:
 
