@@ -3,7 +3,7 @@
 title: jisp
 description: games
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: alirpj.github.io #name of GitHub repository
 url: "https://alirpj.github.io" #custom url to be used instead of GitHub repository
 email: #
 

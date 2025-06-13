@@ -9,7 +9,7 @@ published: true
 
 Hi! 
 
-Jisp is a streamer and game dev, interested in how different games use storytelling and/or competition to bring people together!
+I'm Jisp. I am a streamer and game dev, interested in how different games use storytelling and/or competition to bring people together!
 
 You can find me:
 
