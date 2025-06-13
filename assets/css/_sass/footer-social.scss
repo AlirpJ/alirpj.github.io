@@ -31,6 +31,7 @@
 }
 
 .rounded-social-buttons,
+.fa-twitch,
 .fa-facebook-f,
 .fa-linkedin,
 .fa-github,
@@ -102,6 +103,16 @@
   color: #5dd1b0;
   background: #fefefe;
   border-color: #5dd1b0;
+}
+
+.rounded-social-buttons .social-button.twitch {
+  background: #6441a5;
+}
+
+.rounded-social-buttons .social-button.twitch:hover, .rounded-social-buttons .social-button.twitch:focus {
+  color: #6441a5;
+  background: #b9a3e3;
+  border-color: #262626;
 }
 
 .rounded-social-buttons .social-button.bluesky {

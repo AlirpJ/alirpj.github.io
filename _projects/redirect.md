@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
+title: Redirect link
 description: with no page entry here
-redirect: https://unsplash.com
+redirect: https://www.publichealthisdead.com/episodes/somethings-in-the-air
 ---

@@ -7,16 +7,15 @@ profile:
 published: true
 ---
 
-Hi! 
+Hello! I'm Jisp. 
 
-I'm Jisp. I am a streamer and game dev, interested in how different games use storytelling and/or competition to bring people together!
+I'm a streamer and game developer that loves to explore how different games use storytelling and/or competition to bring people together!
 
 You can find me:
 
+- Streaming on [Twitch](https://www.twitch.tv/JispGames)
 - Making games with [HoneyCo](https://www.honeycogames.com/), 
 - Playing games on [YouTube](https://www.youtube.com/@JispGames), 
-- Or streaming on [Twitch](https://www.twitch.tv/JispGames)!
-
-I also have [BlueSky](https://bsky.app/profile/jispgames.bsky.social). 
+- and posting on [BlueSky](https://bsky.app/profile/jispgames.bsky.social). 
 
 Thanks for reading, neighbor! :D
