@@ -7,15 +7,16 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi! 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Jisp is a streamer and game dev, interested in how different games use storytelling and/or competition to bring people together!
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+You can find me:
 
-PS: If you liked the theme, do star it on GitHub!
+- Making games with [HoneyCo](https://www.honeycogames.com/), 
+- Playing games on [YouTube](https://www.youtube.com/@JispGames), 
+- Or streaming on [Twitch](https://www.twitch.tv/JispGames)!
 
-### Also, check out:
+I also have [BlueSky](https://bsky.app/profile/jispgames.bsky.social). 
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+Thanks for reading, neighbor! :D
