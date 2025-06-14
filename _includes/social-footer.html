@@ -17,15 +17,6 @@ target="_blank">
 </a>
 {%- endif -%}
 
-{%- if site.github -%}
-<a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
-class="social-button github"
-href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
-target="_blank">
-<i class="fab fa-github"></i>
-</a>
-{%- endif -%}
-
 {%- if site.bluesky -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'Bluesky' }}"
 class="social-button bluesky" itemprop="sameAs"
@@ -34,6 +25,15 @@ target="_blank">
 <i class="fab fa-bluesky"></i>
 </a>
 {%- endif -%}
+
+<!-- {%- if site.github -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
+class="social-button github"
+href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
+target="_blank">
+<i class="fab fa-github"></i>
+</a>
+{%- endif -%} -->
 
 <!-- {%- if site.linkedin -%}
 <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
