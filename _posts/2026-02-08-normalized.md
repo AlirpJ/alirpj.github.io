@@ -31,7 +31,7 @@ Combating fascism is an intersectional task that requires both learning and acti
 
 As pleasurable as it may be, a return to normalcy is a signal to a watching empire that we are conceding to their violence. We cannot concede. Only together can a community reject eugenics. When people are exploited as victims of imperial evil, change starts when we can reject the push for us to accept violence as “normal.” We must reject all forms of imperial and colonial violence.
 
-Start small! Just like exercise, you don’t start at the biggest weights. Resistance is the same way. Work alongside your community for what works for you. I trust you :)
+Start small! Just like exercise, you don’t start at the biggest weights. Resistance is the same way. Work alongside your community for what works for you. I trust you :D
 
 ---
 
