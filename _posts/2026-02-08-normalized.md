@@ -7,9 +7,13 @@ title: "Normalized Empire"
 
 During World War 2, the Soviet Union killed millions of nazis. [In contrast, the United States hired thousands of them.](https://en.wikipedia.org/wiki/Operation_Paperclip) The ultimate ability of a global superpower is normalization, even if it means absorbing your enemies. 
 
+---
+
 [Aviation English](https://en.wikipedia.org/wiki/Aviation_English), the angle of screw threads, and the International Organization for Standardization (ISO) were all established by the United States due to the specific interactions of nations during World War 2. Blood was being spilled primarily in Europe, but the war was manufactured in the U.S.A. This expanded the already-growing superpower of the United States. War is very profitable, indeed. In addition, due to the war causing instability in supply lines, the U.S was learning that instead of relying on the exploitation of their colonies for raw materials, they can mass manufacture in the mainland. (They eventually learned they can combine both options by manufacturing in the exploited colonies). Despite the millions dying in war, corporate interests would be pleased. In the face of suffering, the American economy grew at the fastest rate it has ever achieved. [The United States’ GDP went from $88.6 to $135 billion between 1939 and 1945.](https://eh.net/encyclopedia/the-american-economy-during-world-war-ii/)* The U.S wants us to think that violence is normal; it has built its economy around that belief. 
 
 Despite being on the opposite sides of this war, The United States inspired many of the atrocities committed by Nazi Germany. [One of these atrocities is eugenics](https://pmc.ncbi.nlm.nih.gov/articles/PMC1299061/), a powerful term that has unfortunately evolved to escape its negative association. Eugenics as I discuss it is the (incorrect) belief that you can systematically improve human society by reducing the prominence of negative traits and encourage superior ones. [Eugenics began in developed nations just like the United States and United Kingdom before spreading around the world.](https://muse.jhu.edu/article/36469) It is the justification that empowers other concepts like racism, ableism, and ageism. These concepts are alive and well, upheld by powerful systems like those in the United States today. 
+
+---
 
 Eugenics has always carried a particular appearance to the public eye: restriction of abortion, forced sterilization, and out-right killing those that are deemed inferior. This sets it apart from accessibility and the idea that all humans deserve to live safely, comfortably, and with dignity. However, in recent history, we have begun to see that eugenics has evolved to remain as a relevant ideology as the values of society change. It is trying to become “normal”.
 
@@ -39,4 +43,9 @@ Start small! Just like exercise, you don’t start at the biggest weights. Resis
 
 -----
 
-Inspired by reading “How to Hide an Empire” by Daniel Immerwahr, “Poets Square” by Courtney Gustafson, and “The Viral Underclass” by Steven W. Thrasher. I recommend all three books! 
+Inspired by reading: 
+- “How to Hide an Empire” by Daniel Immerwahr
+- “Poets Square” by Courtney Gustafson
+- “The Viral Underclass” by Steven W. Thrasher. 
+
+I recommend all three books! 
